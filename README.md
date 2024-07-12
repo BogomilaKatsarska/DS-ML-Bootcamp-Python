@@ -4,7 +4,7 @@
   <li>Numpy</li>
   <li>Pandas</li>
   <li> Matplotlib </li>
-  ![image](https://github.com/user-attachments/assets/78bfb2ba-1c1d-44be-ba25-9059836f8445) </br>
+  <img>![image](https://github.com/user-attachments/assets/78bfb2ba-1c1d-44be-ba25-9059836f8445)</img> </br>
   ![image](https://github.com/user-attachments/assets/2f27bf03-8549-4364-820f-e38a9db4d8be) </br>
   <li>Plotly and Cufflinks</li>
   ![image](https://github.com/user-attachments/assets/758d6fa4-b9d6-4d0b-9d7c-b0804b42d545) </br>
