@@ -15,5 +15,5 @@
   ![image](https://github.com/user-attachments/assets/8864ea37-acbe-46f0-857d-e85f6a4cbe73) </br>
   <li>Machine Learning</li>
   <li>Linear Regression</li>
-  <li>Logistic Regression</li>
+  <li>GeoPandas</li>
 </ul>
